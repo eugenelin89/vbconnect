@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python / virtualenv
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Django / build artifacts
+db.sqlite3
+media/
+staticfiles/
+
+# Frontend / tooling
+node_modules/
+dist/
+
+# Editors
+.idea/
+.vscode/
+vbconnect.code-workspace
